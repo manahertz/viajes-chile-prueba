@@ -1,0 +1,35 @@
+
+html{
+    scroll-behavior: smooth !important;
+}
+
+body{
+    font-family: "Raleway", sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.bgblack.scrolled{
+    background-color: black;
+}
+
+h4{
+    font-weight: 500;
+}
+h5{
+    font-weight: 500;
+}
+
+.card img{
+    height: 120px;
+}
+
+
+footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+a:hover { 
+    color: black;
+}
